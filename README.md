@@ -26,7 +26,7 @@
 
 Hello, I’m **Nin Kanong**, a Network Engineering and Security student at **Norton University** with a strong interest in cybersecurity, network infrastructure, and practical defensive security.
 
-We are in different knowledge and level we can do anything the same good.
+> Every secure system was once vulnerable; weaknesses are not the end of potential, but the beginning of evolution.
 
 <a id="tech-stack"></a>
 
