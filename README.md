@@ -26,8 +26,6 @@
 
 Hello, I’m **Nin Kanong**, a Network Engineering and Security student at **Norton University** with a strong interest in cybersecurity, network infrastructure, and practical defensive security.
 
-I enjoy understanding how systems communicate, investigating activity in logs, learning how attacks work, and applying that knowledge to improve detection and protection. I use this GitHub to document my learning, publish lab notes, and build projects that turn theory into practice.
-
 <a id="tech-stack"></a>
 
 
