@@ -26,7 +26,7 @@
 
 Hello, I’m **Nin Kanong**, a Network Engineering and Security student at **Norton University** with a strong interest in cybersecurity, network infrastructure, and practical defensive security.
 
-> Every secure system was once vulnerable; weaknesses are not the end of potential, but the beginning of evolution.
+> Every secure system was once vulnerable; weaknesses are not the end of potential, but the beginning of evolution - The Architecture of Human Growth.
 
 <a id="tech-stack"></a>
 
