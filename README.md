@@ -32,12 +32,7 @@ Hello, I’m **Nin Kanong**, a Network Engineering and Security student at **Nor
 
 ## Tech-Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,powershell,bash,windows,linux,c,cpp,html,css,js,react,git,github,docker&perline=14&theme=dark" alt="Python, PowerShell, Bash, Windows, Linux, C, C++, HTML, CSS, JavaScript, React, Git, GitHub, and Docker" />
-
-</div>
-
+<div align="center"><img src="https://skillicons.dev/icons?i=python,powershell,bash,windows,linux,c,cpp,html,css,js,react,git,github,docker&perline=14&theme=dark" alt="Languages and Tools" />&nbsp;<img src="https://images.openai.com/static-rsc-4/Tk8CQusaToqg49ChXuLXYAPl3UbIzeohIIadcTQdXv23ld49b-159EPm1KIsj0V3p3hqtfcVPPCshjvKRqpV4o2NFyjio3vWK9djKxueWf6VCksS17UitKq_R1qjLqqcVflqhMHYHMJ5O6KVGTJjF4ZR50oqEtHwhAt6_JrXgVA?purpose=inline" width="48" height="48" alt="Power Automate" />&nbsp;<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel Office Scripts" /></div>
 
 
 
@@ -45,15 +40,7 @@ Hello, I’m **Nin Kanong**, a Network Engineering and Security student at **Nor
 
 ## GitHub Activity
 
-<div align="center">
-
-<!-- Contribution streak: keep the working card -->
-<img width="70%"
-src="https://streak-stats.demolab.com/?user=Nin-Kanong&hide_border=true&background=050505&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
-alt="GitHub contribution streak" />
-
-</div>
-
-
+<div align="center"><img width="70%"src="https://streak-stats.demolab.com/?user=Nin-Kanong&hide_border=true&background=050505&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+alt="GitHub contribution streak" /> </div>
 
 ---
