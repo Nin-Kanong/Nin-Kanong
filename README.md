@@ -13,9 +13,6 @@
 
 <div align="center">
 
-
-**Network Engineering & Cybersecurity Student** · **Blue Team Learner** · **Open-Source Builder**
-
 [![GitHub](https://img.shields.io/badge/GitHub-Nin--Kanong-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nin-Kanong)
 [![Focus](https://img.shields.io/badge/FOCUS-CYBERSECURITY-B91C1C?style=for-the-badge&logo=hackthebox&logoColor=white)](#about-me)
 [![Learning](https://img.shields.io/badge/MINDSET-ALWAYS_LEARNING-F59E0B?style=for-the-badge&logo=bookstack&logoColor=111111)](#current-focus)
@@ -45,3 +42,20 @@ I enjoy understanding how systems communicate, investigating activity in logs, l
 
 
 
+
+<a id="github-activity"></a>
+
+## GitHub Activity
+
+<div align="center">
+
+<!-- Contribution streak: keep the working card -->
+<img width="70%"
+src="https://streak-stats.demolab.com/?user=Nin-Kanong&hide_border=true&background=050505&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+alt="GitHub contribution streak" />
+
+</div>
+
+
+
+---
