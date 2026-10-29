@@ -1,30 +1,78 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Nin Kanong cybersecurity profile banner" width="100%" />
+<img src="assets/k4n0ng.jpg" alt="Red-sunset samurai profile artwork" width="220" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2600&pause=800&color=00F5D4&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Nin+Kanong;Network+Engineering+%7C+Cybersecurity;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Animated typing introduction" />
+# K4N0NG
+
+### Network Engineering · Cybersecurity · Security Operations
+
+*Building, breaking, and securing systems — one lab at a time.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Nin-Kanong)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Labs-C11111?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/)
+[![Cybersecurity](https://img.shields.io/badge/Focus-Blue%20Team%20%7C%20Red%20Team-8B0000?style=for-the-badge)](#)
 
 </div>
 
-## Profile
-
-<div align="center">
-  <img src="assets/avatar-animated.gif" alt="Animated cyber-style avatar for Nin Kanong" width="190" />
-</div>
-
-I’m **Nin Kanong**, a Network Engineering and Security student interested in cybersecurity, networking, and practical security labs.
+---
 
 ## About Me
 
-- **Focus:** Network Engineering, Cybersecurity, and Security Operations (SOC)
-- **Learning:** Network defense, threat detection, Linux, and security tools
-- **Building:** Hands-on labs, technical notes, and open-source security projects
-- **GitHub goal:** Document my progress, share useful write-ups, and keep improving
+- Network Engineering and Security student at Norton University.
+- Interested in **SOC operations, threat detection, network security, and penetration testing**.
+- Practicing through hands-on labs, security projects, and technical write-ups.
+- Focused on improving practical skills in both defensive and offensive security.
 
-I believe in learning by doing: practice consistently, document what I learn, and turn knowledge into useful projects.
+## Technical Skills
+
+| Area | Tools and topics |
+|---|---|
+| Networking | TCP/IP, DNS, HTTP/HTTPS, OSI model, Wireshark |
+| Security operations | Log analysis, alert triage fundamentals, incident response fundamentals, SIEM basics |
+| Network assessment | Nmap, Nessus, OpenVAS |
+| Web security labs | Burp Suite, SQL injection concepts, OWASP Top 10 |
+| Systems | Windows, Linux, Kali Linux, Ubuntu |
+| Scripting | Python, Bash fundamentals, JavaScript |
+
+## Featured Projects
+
+### [Phish-Hunter](https://github.com/Nin-Kanong/Phish-Hunter)
+A security project focused on phishing and defensive analysis. See the repository for the current features and implementation.
+
+### [Red-Team-Offensive-Security](https://github.com/Nin-Kanong)
+A collection of offensive-security learning notes and lab practice.
+
+### [Blue-Team-Defensive-Security](https://github.com/Nin-Kanong)
+Defensive security learning, monitoring concepts, and investigation practice.
+
+### [TryHackMe-Labs](https://github.com/Nin-Kanong)
+Hands-on cybersecurity labs and learning documentation.
+
+> Update the project links above to the exact repository URLs if any repository names differ.
+
+## Current Learning Goals
+
+- Strengthen networking and troubleshooting fundamentals.
+- Practice SOC workflows: logs, detection, investigation, and incident documentation.
+- Build repeatable security labs and publish clear technical write-ups.
+- Develop practical skills in vulnerability assessment and web security testing.
+
+## Certifications & Training
+
+- SalaCyber — Network and Cybersecurity Foundation
+- SalaCyber — IT Security Essential
+- SalaCyber — Ethical Hacking Essential
+- SalaCyber — Cybersecurity Analyst & Operation
+
+## Connect
+
+- GitHub: [@Nin-Kanong](https://github.com/Nin-Kanong)
+- LinkedIn: Add your LinkedIn profile URL here.
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F766E,100:2563EB&height=100&section=footer&animation=twinkling" alt="Blue and teal animated wave footer" width="100%" />
+**Learn continuously. Practice ethically. Secure by design.**
 
 </div>
